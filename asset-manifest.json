@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bentheitguy.me/static/css/main.5f361e03.chunk.css",
+    "main.js": "/bentheitguy.me/static/js/main.ee561e4b.chunk.js",
+    "main.js.map": "/bentheitguy.me/static/js/main.ee561e4b.chunk.js.map",
+    "runtime-main.js": "/bentheitguy.me/static/js/runtime-main.178b1b7c.js",
+    "runtime-main.js.map": "/bentheitguy.me/static/js/runtime-main.178b1b7c.js.map",
+    "static/js/2.ac873faa.chunk.js": "/bentheitguy.me/static/js/2.ac873faa.chunk.js",
+    "static/js/2.ac873faa.chunk.js.map": "/bentheitguy.me/static/js/2.ac873faa.chunk.js.map",
+    "index.html": "/bentheitguy.me/index.html",
+    "precache-manifest.96de4d886a10527b8043fddb850afb2b.js": "/bentheitguy.me/precache-manifest.96de4d886a10527b8043fddb850afb2b.js",
+    "service-worker.js": "/bentheitguy.me/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/bentheitguy.me/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ac873faa.chunk.js.LICENSE.txt": "/bentheitguy.me/static/js/2.ac873faa.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bentheitguy.me/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.178b1b7c.js",
+    "static/js/2.ac873faa.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ee561e4b.chunk.js"
+  ]
+}
